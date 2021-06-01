@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akaZeroCool
+- 👋 Hi, I’m @akaZeroCool aka Mat
 - 👀 I’m interested in coding, soccer, video games, and travel.
 - 🌱 I’m currently learning entry level coding practices. (CSS< HTML, JAVA)
 - 💞️ I’m looking to collaborate on an entry level project to start my portfolio.
